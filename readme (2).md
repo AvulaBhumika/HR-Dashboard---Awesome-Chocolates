@@ -1,5 +1,7 @@
 # HR Dashboard - Awesome Chocolates
 
+![image](https://github.com/user-attachments/assets/891caa7b-5fe6-484b-a8a2-ddd29a1415d7)
+
 ## Overview
 This **HR Dashboard** provides key insights into the workforce of *Awesome Chocolates*. The dashboard visualizes employee demographics, salary distributions, job roles, and growth trends, enabling HR professionals to make data-driven decisions.
 
@@ -51,5 +53,9 @@ This **HR Dashboard** provides key insights into the workforce of *Awesome Choco
 1. Open the **Tableau workbook** or published dashboard.
 2. Explore different sections to analyze workforce trends.
 3. Use insights to drive HR decisions, such as hiring, promotions, and training programs.
+
+
+
+   Hosted at : https://public.tableau.com/app/profile/avula.bhumika/viz/HRDashboardAnalytics_17419725294050/Q10?publish=yes
 
 
